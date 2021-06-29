@@ -1,4 +1,11 @@
 body{
-  font-size: 'Open Sans Condense';
+  font-family: 'Open Sans Condensed', sans-serif; 
   padding: 20px 80px;
+}
+a{
+  text-decoration: none;
+  color: black
+}
+*{
+  box-sizing: border-box;
 }
